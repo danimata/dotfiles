@@ -20,3 +20,4 @@ if [ -f ~/.localrc ]; then
   . ~/.localrc
 fi
 
+export EDITOR=nano

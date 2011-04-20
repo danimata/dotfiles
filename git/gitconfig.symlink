@@ -7,8 +7,8 @@
 # can symlink ~/.gitconfig to this file and go rock out with your git out!
 
 [user]
-        name = Roger Campos
-        email = roger@itnig.net
+        name = Dani Mata
+        email = dani@itnig.net
 [alias]
         co = checkout
 [color]
@@ -23,4 +23,6 @@
         whitespace = nowarn
 [diff]
   tool = meld
-
+[github]
+  user = danimata
+  
